@@ -1,0 +1,3 @@
+Hi, I'm a recent grad of Dev Bootcamp with a bachelors in physics. I have a real passion for building projects from their foundations up with the most scalabe architecture patterns in mind. I enjoy solving complex problems and unraveling bizzare errors. I also really love optimization problems. I do my best to always design and implement fast and efficient code.
+
+I've had some experience working on software in the scientific context, and now I'd really like to start building meaningfull client facing products while utilizing my analytical skills to build a really solid backend.
